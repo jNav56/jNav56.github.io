@@ -1,5 +1,4 @@
-title: Juan Nava Blog Page
-## Welcome to GitHub Pages
+# Juan Nava Blogs
 
 You can use the [editor on GitHub](https://github.com/jNav56/jNav56.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
