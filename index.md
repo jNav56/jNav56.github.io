@@ -13,8 +13,12 @@ I would say it is band, but more specifically jazz band was fun. It had less to 
 
 ## What are your expectations of this class?
 
-From what I heard from a lot past students it is all about C++ and learning about the language. At the same time I'm just going in thinking C++ will be used to show object-oriented concepts like Java was used in CS312 and CS314 
+From what I heard from a lot past students it is all about C++ and learning about the language. At the same time I'm just going in thinking C++ will be used to show object-oriented concepts like Java was used in CS312 and CS314 to show common data structures in computer science.
 
-## How did you feel about the cold calling?
 ## What made you happy this week?
+
+Honestly, the fact that Hurricane Laura missed Houston and there was no heavy rain or winds this past Wednesday. It floods easily in Houston, I know storms have been getting worse in the past decades, but the construction in the city blocking a lot of the irrigation systems does not help. I know that the hurricane did go towards Louisiana and other towns in the boundry of Texas which is very sad and we keep them in our minds, but I do feel grateful for my friends and family.
+
 ## Pick-of-the-Week
+
+I would say that I found out many companies are investing in electric delivery vans. They are mainly used for the environment and enrgy costs. But the trend of electric vans for delivery is allowing for companies to try and transition into smart cars and integrate their own system into vehicles instead of applications employees use on common devices.
