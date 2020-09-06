@@ -3,17 +3,31 @@
 
 ## **What did you do this past week?**
 
+This week I forked the public repository to my private Gitlab and then I used `git clone` on the machines at the school to work on code from my local files. In terms of non-CS371P matters, I have just been taking notes and making sure I am staying ahead on all the other classes I am taking. I really enjoy this class I am taking on Comics, it's just cool to hear what other people have to say about topics they have a better understanding than I do. I have also been playing a few games to relieve myself and give my mind a rest.
+
 ## **What's in your way?**
+
+Honestly, I have a lot trouble in getting started in projects involving makefiles and git. I overthink and miss a few details that can simplify my life. As far collatz concepts, it doesn't seem to be an issue so far, but I still need to test the code like the project intends for me to instead of me manually doing it myself.
 
 ## **What will you do next week?**
 
+Next week I hope to finish Collatz before I have to type the next blog. Also, I intend to finish up other assignments due at the end of the month so I can focus on studying for upcoming tests. I also plan on signing up for recruiting events and hopefully something good happens.
+
 ## **What was your experience of assertions, Google Test, and gcov?**
+
+My experience with these topics was zero, but the lectures were pretty insightful and it was easy to catch on. I really appreciated Professor Downing's teaching because it was simple and it got right to the point.
 
 ## **How are you doing and holding up? What's been most helpful for you in terms of support at this time?**
 
+I am ok. Truthgull it is a bit difficult, but considering all the stories I've been hearing over the past months I have felt more grateful as of late. I think what's been helpful in times like these is counting the good things and knowing it could be a lot worse. That's just an idea for myself, I also don't want to invalidate the feelings of someone else if they do want to feel sad or negative of a situation.
+
 ## **What made you happy this week?**
 
+Just having my dog makes me happy, she's very playful and she likes to be around a lot. I will say 2020 has more negative things going on and this period does not have the best signs for my generation.
+
 ## **What's your pick-of-the-week?**
+
+My pick-of-the-week is HTML5 Boilerplate, this is tool for those interested or working as front end developers that sets up code templates of standard practices. HTML%Boilerplate also sets up javascript files to work with most browsers.
 
 # Blog 1: 08/30/2020
 
