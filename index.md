@@ -1,4 +1,30 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Blog 3: 09/13/2020
+
+## **What did you do this past week?**
+
+This week for the class, I worked on Collatz for most the time starting on Tuesday and finishing up on in the early hours of Friday. I did most of my work from other classes the weekend before so I was able to set a lot of time for the Collatz project. Now, outside of the class I tried to make a garden bed from the wood my dad brought from his job. We had some pumpkin seeds so I planted that after I was done. Also, I was checking my Twitter and someone from high school messaged me asking if I wanted to go into forex (foreign exchange) trading which was funny.
+
+## **What's in your way?**
+
+Well last week, me not having any experience with git was an issue. Thankfully I was able to get a handle of things and the workflow made more sense. However, this week the actual implementation of Collatz was an issue on one part. I didn't have much difficulty implementing most of the optimizations we learned in class. However there was one technique that I had problems using efficiently so I skipped on it only to later be able to apply it correctly and that helped me pass my tests.
+
+## **What will you do next week?**
+
+I do have an opportunity to try to get ahead on other clasess and create a schedule where I have a lot of free time. Obviously I want to use this free time on myself and I want to buy the Super Mario 3D All-Stars title. Despite my wants, I do feel like I should also study so I will set time aside so I can prepare for upcoming tests in late September and early October.
+
+## **What was your experience of Collatz, the starter code, the makefile, its optimizations, and exceptions?**
+
+I heard about Collatz Conjecture before from friends in other math or physics classes, but not to the extent that I know about it now. In that to look for other optimization techniques online, I found a lot of mathematic principles that could be used to optimizr Collatz. The starter code? I don't know what that means exactly, I was able to navigate it once I read the c++ files and see how they connected. The makefile was a document I knew I could run in the linux machine for past classes, but I didn't know much else about it. This past week I looked into learning more about the makefile and the elements that go into it and I did that reading the file made much more sense. So I'm very happy about that. 
+
+## **What made you happy this week?**
+
+Finishing the project, part of me thought I was going to to bomb the first project for the class but it worked out in the end. In general I didn't think this week was filled with enough mallice where anything made me happy because I was already happy to begin with. 
+
+## **What's your tip-of-the-week?**
+
+My tip of the week is to be help others, you never know when something trivial to you may be enormous for someone else. You don't have to feel good about yourself either when you help others, you can just feel good that they are better off.
+
 # Blog 2: 09/06/2020
 
 ## **What did you do this past week?**
