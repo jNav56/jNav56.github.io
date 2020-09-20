@@ -1,4 +1,30 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Blog 4: 09/20/2020
+
+## **What did you do this past week?**
+
+I was working on assignments from other classes. From that bunch homework 2 from CS 331 (Algorithms and Complexities) with Professor Gal had a problem where he had to describe the Towers of Hanoi and that burned me out. Other than school, I played games and tried to review my resume to hopefully get some kind of internship or job lined up for the summer and beyond. However at this point there is still time to play catch up on some classes that I had to miss since I was needed in Austin for a friend's dentist appointment.
+
+## **What's in your way?**
+
+Time and location. I am starting to get to the point where I wish I had more time and that's only because I have been slacking off a bit in my responsibilities. I do want to preface by saying that the situation of staying in my house and room for a long period of time is draining that definitely makes me more sluggish. On one hand there are people who say that should be very strict in where you work, rest, and eat within in your home, but that in itself requires tremendous discipline that I will admit I do not have.
+
+## **What will you do next week?**
+
+The coming week is going to be given up to taking notes for a class on marketing, studying for my test in math, reading a book for an information studies class, and of course the voting project. I think the challenge I will have with this project is going to be with the started code and the other files I will have to build which were given to us in project 1. Still, getting through will be a good learning experience.
+
+## **What was your experience of exceptions, voting, and strcmp?**
+
+My experience with exceptions was just a simple try-catch implementation of one exception being thrown. I had no real clue about the implications involving more than one exception and the relationships exceptions could have with one another. My experience with voting... I will assume that you are talking about the coding aspect from class. To that I have no experience with it, but I was excited to see the implementation that Professor Downing explained this past friday. If we are talking about actual voting, I voted once on the national level and it did not end well. Now if we are talking about strcmp, I think I had a project in the computer architecture class that had us implementing a few of the typical string methods with C.
+
+## **What made you happy this week?**
+
+Getting a new chest freezer, we had an old freeze in the house for all the meat and fish we'd keep for later use. As things get older there is wear and tear, so getting a new chest took off a big check from the to-do list.
+
+## **What's your tip-of-the-week?**
+
+Respect people's boundaries and their space, it's always easier to mind your own business. This isn't meant to be mean, of course we all want to talk to other people or form relationships. But if they show signs that might most likely say they don't want an interaction, then it's better fro everyone to stop pursuing. It's ok if you have good intentions, but if the other person does not feel the same way simply telling them your intentions is not enouhg. Don't let one event discourage you though.
+
 # Blog 3: 09/13/2020
 
 ## **What did you do this past week?**
