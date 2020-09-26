@@ -3,27 +3,27 @@
 
 ## What did you do this past week?
 
-
+I mainly worked on the voting project since I did a lot of work from other classes the weekend before. Thankfully I was able to finish the hackerrank portion of the project earlier than anticipated and able to focus on the logistical portion where we had to create the makefile, the ctd, and other files to make the pipeline work.
 
 ## What's in your way?
 
-
+Daily responsibilities in the household were heavy this week also, living in Austin away from my hometown had its fairshare of events that took me away from doing school work like a job that I needed or helping out my friend who I couldn't leave at the doorstep. But being in Houston just gives me more domestic chores that I have to do, I'm not gonna tell my mom no. With this I help my mom around with her job to bring in more income when times are specifically tough.
 
 ## What will you do next week?
 
-
+The same thing I am doing during this weekend and that is preparing to study for my test in CS 331. The notes and slides that we have looked at so far does not have the most heavy subjects, but like with most math tests we use simple concepts to solve complicated problems. Afterwards I want to spend the latter half of the week taking notes and finishing assignments for my other non-cs classes. Then I will start to study for the test for this class.
 
 ## What was your experience of values, addresses, references and consts?
 
-
+I had a basic understanding of pointers and using the variable to access and change data from CS 429 and CS 439, but the use of the const keyword with pointers was new to me. But during class just listening to descriptions of the declarations with pointers like "pointers that only point to one address" did help in better understanding the lessons from the week.
 
 ## What made you happy this week?
 
-
+Just being able to finish work was enough for me, but I do want to focus more on getting a full time job for when I graduate this Spring.
 
 ## What's your tip-of-the-week?
 
-
+If you have time and the resources, try to learn how to cook. Food always tastes better when you make it yourself.
 
 # Blog 4: 09/20/2020
 
