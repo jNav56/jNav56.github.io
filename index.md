@@ -1,4 +1,30 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Blog 5: 09/27/2020
+
+## What did you do this past week?
+
+
+
+## What's in your way?
+
+
+
+## What will you do next week?
+
+
+
+## What was your experience of values, addresses, references and consts?
+
+
+
+## What made you happy this week?
+
+
+
+## What's your tip-of-the-week?
+
+
+
 # Blog 4: 09/20/2020
 
 ## **What did you do this past week?**
