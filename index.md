@@ -1,4 +1,34 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Blog 6: 10/04/2020
+
+## What did you do this past week?
+
+I studied for a test that I had on Tuesday. Felt ok about that, but like with a lot of things I was a little nervous since I didn't know what to expect. After I took my test I spent the rest of the week taking notes for other classes and finishing up assignments that were due this past Friday. Finally for the weekend I dedicated time on catching my notes up for this class.
+
+## What's in your way?
+
+Nothing was in my way from what I could tell. Everything seemed fine and I was able to manage my time well this past week.
+
+## What will you do next week?
+
+I will start on a personal project that I've had in mind to get me better adjusted to using front-end tools. Also, I want to start on project 3 and prepping for the test. For classes aside from this I only have to read a few chapters from a book and take light notes.
+
+## If you read it, what did you think of Why Is Silicon Valley So Awful to Women?
+
+Unfortunately I feel like some of us know what it's like to be treated as a burden in society due to what we look like or where we come from, and I can at least know being a woman (or even a woman of color from low income communities at that) is not any easier. I think it's good to show this to students, it at least tries to give us the ideas of how to be better.
+
+## What was your experience of arrays, equal(), and iterators?
+
+The array lesson towards the end did confuse me a bit, but I get that's the effect Professor Downing wanted since it supported the argument to not use arrays. I have worked with the equals method before and I have been told in the past to override it. However I have yet to implement it with templates, which was new to me but very eye-catching. Lastly, I think I was more familiar with the iterators and the concepts learned in class.
+
+## What made you happy this week?
+
+First and foremost being done with the test was relieving, it wasn't as hard as I thought and I know what to expect for next time.
+
+## What's your pick-of-the-week or tip-of-the-week?
+
+My tip of the week is to read. And I get it, reading is hard and I'm a slow reader. I will say that reading 10 minutes a day or 10 pages a day is very helpful. You get some time to read even when you are extremely busy and when the habit becomes second nature your reading speed increases.
+
 # Blog 5: 09/27/2020
 
 ## What did you do this past week?
