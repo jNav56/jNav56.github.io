@@ -1,4 +1,34 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Blog 7: 10/11/2020
+
+## What did you do this past week?
+
+I worked on a project for one of my other classes that I had started the week before. It was really fun and definitely took all my creative energy out. Afterwards I caught up on notes for every class, especially this one since we have a test coming up. I also started to read a book assigned to me about disablities in comic writing. It's very interesting so far and made me think about stuff I didn't before. Finally on Wednesday I began working on the allocator project. For some reason I thought it was due next week and I didn't realize the mistake in my calendar. Regardless of that I am almost done with the everything, I just need to make the ctd file and I should be good to turn it in.
+
+## What's in your way?
+
+The pile of work is in my way, I don't know if that's a sufficient answer. But after someone gets a certain amount of work that and then exceeds that amount their brain shuts down and takes a well 'deserved' break. That's the feeling I had all week that made it even harder to get work done.
+
+## What will you do next week?
+
+Study for the upcoming test and hopefully get more things done in advanced. It really surprises me how others seem to have a lot of time to do other things for their career prospects and clubs. I'm not saying it's bad, it's more like I want to be at that level where I am good enough to make time like they have been able to do.
+
+## If you read it, what did you think of The Open-Closed Principle?
+
+It was a bit confusing. It seemed to knock down a lot of ideas that I have been thought in the past. I just took the moment as old tools used for future students and moved on. Hopefully whatever job I get has practices I can easily get acquainted with.
+
+## What was your experience of iterator concepts, std::array, and std::vector?
+
+The iterator and standard array concepts were very cool and I think knowing how pointers worked really helped. I did get a little lost when Professor Downign was explaining the the methods that were called when user-defined classes gave an iterator.
+
+## What made you happy this week?
+
+First and foremost I am very happy to see the Houston Astros win and go to the next level below the World Series, I thought it was a great game and I am happy the team won when a lot of other fans were talking in vain against them. Other than that I am very happy to know that I have more time on the project so working should be a lot easier next week and I shouldn't have as much stress as I had this week. 
+
+## What's your pick-of-the-week?
+
+This isn't exactly software related, but if you ever wondered if your doctor has taken money from a drug company there is a website called Dollar for Docs that has a database of doctors in the US and how much money they have taken to promote a drug from a company to their patients.
+
 # Blog 6: 10/04/2020
 
 ## What did you do this past week?
