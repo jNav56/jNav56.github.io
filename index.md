@@ -1,4 +1,34 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Blog 8: 10/18/2020
+
+## What did you do this past week?
+
+I studied for the test of this class for the better first half of the week. Afterwards, I just did other coursework. Also the course schedule came out and I wanted to look at that (planning the course schedule can be time consuming on it's own because you get curious). Finally I tried to plan some graduation mini-events, since I don't think Covid will be gone or something to sneeze at in June, for my friend and I. I want to make a stage and print out a big banner and have a virtual celebration with a large circle of friends and family. 
+
+## What's in your way?
+
+Right now I can say that I am ahead enough where I have some down time that I want to use on my personal projects and into the future projects I have coming up. Only time will tell. 
+
+## What will you do next week?
+
+A lot of reading and drawing that I have to do, some due dates are coming along and creeping up and there is still some details I have to polish in my work. Other than that I want to do some deep cleaning of my room and organize it differently.
+
+## If you read it, what did you think of The Liskov Substitution Principle?
+
+I liked it, I do enjoy the readability of most of these articles and that's always a plus. But either way, it made sense and it did seem to provide helpful guidelines to follow in the industry. The examples they use are nice too, just fast and simple.
+
+## What was your experience of Test #1?
+
+The first day definitely had a tough question, but I felt ok with the rest of the questions after that. The next day did feel bittersweet and that is mainly coming from the fact you sometimes overthink some things, but what can you do at that point.
+
+## What made you happy this week?
+
+Well the Astros did play very well and they got out of a 3-0 hole they were put in. Even though they lost it was still a good game.
+
+## What's your tip-of-the-week?
+
+Move on with life, there are some stuff you can't change or control so just hope for the best. I know the slang "nimodo" is definitely used in Mexican culture, but that's what the feeling should be.
+
 # Blog 7: 10/11/2020
 
 ## What did you do this past week?
