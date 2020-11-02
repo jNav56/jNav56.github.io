@@ -1,4 +1,16 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Blog 10: 11/01/2020
+
+## What did you do this past week?
+## What's in your way?
+## What will you do next week?
+## If you read it, what did you think of The Interface Segregation Principle?
+## What was your experience of continuing to implement std::vector?
+## What made you happy this week?
+## What's your pick-of-the-week or tip-of-the-week?
+
+# Blog 9: 10/25/2020 - Skipped
+
 # Blog 8: 10/18/2020
 
 ## What did you do this past week?
