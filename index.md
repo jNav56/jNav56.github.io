@@ -3,11 +3,11 @@
 
 ## What did you do this past week?
 
-The first half I was finishing up some work for two of my classes that aren't related to my major. That was fun. Afterwards, I studies for test that I had this past Thursday which I feel pretty good about. Moreso that it's done and I have less major assignments to prepare for now. Finally I started and luckily finished the Darwin project.
+The first half I was finishing up some work for two of my classes that aren't related to my major. That was fun. Afterwards, I studies for test that I had this past Thursday which I feel pretty good about. More so that it's done and I have less major assignments to prepare for now. Finally I started and luckily finished the Darwin project.
 
 ## What's in your way?
 
-Just a lot of things that were overlapping each other made it a very difficult time to manage my responsibilties, but we are past it and I will watch a movie to wind down. Other than that, things went smoothly in other departments so I cannot complain there.
+Just a lot of things that were overlapping each other made it a very difficult time to manage my responsibilities, but we are past it and I will watch a movie to wind down. Other than that, things went smoothly in other departments so I cannot complain there.
 
 ## What will you do next week?
 
@@ -19,15 +19,15 @@ I liked it. I know I have heard about it from other people and teachers which is
 
 ## What was your experience of continuing to implement std::vector?
 
-I have not had any experience with implementing vector beforem but it's pretty cool to get a layout of what goes into creating a class that's formal. Formal in the way that is pretty well built and very versatile. I feel if I made the class without some of the details we went over in class it would have taken up a lot of space and time for methods to work.
+I have not had any experience with implementing vector before but it's pretty cool to get a layout of what goes into creating a class that's formal. Formal in the way that is pretty well built and very versatile. I feel if I made the class without some of the details we went over in class it would have taken up a lot of space and time for methods to work.
 
 ## What made you happy this week?
 
-Halloween was actually pretty fun (I did not go to a party, we like to be safe around here) becuase I actually carved decent looking pumpkin of Perry the Platypus in my opinion. I made popcorn with some spices and it tasted alright. I also took pictures with my dog dressed as a taco and me as a bottle of hot sauce.
+Halloween was actually pretty fun (I did not go to a party, we like to be safe around here) because I actually carved decent looking pumpkin of Perry the Platypus in my opinion. I made popcorn with some spices and it tasted alright. I also took pictures with my dog dressed as a taco and me as a bottle of hot sauce.
 
 ## What's your tip-of-the-week?
 
-If you have time I would recommend a book called *The Pragmatic Programmer* by Andrew Hunt and David Thomas. It's just a book that so far has talked about great practices anyone can follow to drill in their heads that does help with learnign some concepts. It talks about things that I have heard about before, but it's been interesting how the book has worded it's explanations. If you, can I like it so far.
+If you have time I would recommend a book called *The Pragmatic Programmer* by Andrew Hunt and David Thomas. It's just a book that so far has talked about great practices anyone can follow to drill in their heads that does help with learning some concepts. It talks about things that I have heard about before, but it's been interesting how the book has worded it's explanations. If you, can I like it so far.
 
 # Blog 9: 10/25/2020 - Skipped
 
