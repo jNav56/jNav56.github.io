@@ -25,7 +25,9 @@ I have not had any experience with implementing vector beforem but it's pretty c
 
 Halloween was actually pretty fun (I did not go to a party, we like to be safe around here) becuase I actually carved decent looking pumpkin of Perry the Platypus in my opinion. I made popcorn with some spices and it tasted alright. I also took pictures with my dog dressed as a taco and me as a bottle of hot sauce.
 
-## What's your pick-of-the-week or tip-of-the-week?
+## What's your tip-of-the-week?
+
+If you have time I would recommend a book called *The Pragmatic Programmer* by Andrew Hunt and David Thomas. It's just a book that so far has talked about great practices anyone can follow to drill in their heads that does help with learnign some concepts. It talks about things that I have heard about before, but it's been interesting how the book has worded it's explanations. If you, can I like it so far.
 
 # Blog 9: 10/25/2020 - Skipped
 
