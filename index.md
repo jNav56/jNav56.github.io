@@ -14,6 +14,9 @@ Just a lot of things that were overlapping each other made it a very difficult t
 I have two big projects and hefty paper on a book I am reading at the moment due by the middle of November. It's safe to say that most of my attention will be put into getting those obligations out of the way.
 
 ## If you read it, what did you think of The Interface Segregation Principle?
+
+I liked it. I know I have heard about it from other people and teachers which is nice, but it did feel good to read the concept and actually put a name to it instead of describing it to myself when I think of it.
+
 ## What was your experience of continuing to implement std::vector?
 ## What made you happy this week?
 ## What's your pick-of-the-week or tip-of-the-week?
