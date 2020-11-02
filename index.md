@@ -2,7 +2,13 @@
 # Blog 10: 11/01/2020
 
 ## What did you do this past week?
+
+The first half I was finishing up some work for two of my classes that aren't related to my major. That was fun. Afterwards, I studies for test that I had this past Thursday which I feel pretty good about. Moreso that it's done and I have less major assignments to prepare for now. Finally I started and luckily finished the Darwin project.
+
 ## What's in your way?
+
+Just a lot of things that were overlapping each other made it a very difficult time to manage my responsibilties, but we are past it and I will watch a movie to wind down. Other than that, things went smoothly in other departments so I cannot complain there.
+
 ## What will you do next week?
 ## If you read it, what did you think of The Interface Segregation Principle?
 ## What was your experience of continuing to implement std::vector?
