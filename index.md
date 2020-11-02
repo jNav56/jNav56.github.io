@@ -18,7 +18,13 @@ I have two big projects and hefty paper on a book I am reading at the moment due
 I liked it. I know I have heard about it from other people and teachers which is nice, but it did feel good to read the concept and actually put a name to it instead of describing it to myself when I think of it.
 
 ## What was your experience of continuing to implement std::vector?
+
+I have not had any experience with implementing vector beforem but it's pretty cool to get a layout of what goes into creating a class that's formal. Formal in the way that is pretty well built and very versatile. I feel if I made the class without some of the details we went over in class it would have taken up a lot of space and time for methods to work.
+
 ## What made you happy this week?
+
+Halloween was actually pretty fun (I did not go to a party, we like to be safe around here) becuase I actually carved decent looking pumpkin of Perry the Platypus in my opinion. I made popcorn with some spices and it tasted alright. I also took pictures with my dog dressed as a taco and me as a bottle of hot sauce.
+
 ## What's your pick-of-the-week or tip-of-the-week?
 
 # Blog 9: 10/25/2020 - Skipped
