@@ -10,6 +10,9 @@ The first half I was finishing up some work for two of my classes that aren't re
 Just a lot of things that were overlapping each other made it a very difficult time to manage my responsibilties, but we are past it and I will watch a movie to wind down. Other than that, things went smoothly in other departments so I cannot complain there.
 
 ## What will you do next week?
+
+I have two big projects and hefty paper on a book I am reading at the moment due by the middle of November. It's safe to say that most of my attention will be put into getting those obligations out of the way.
+
 ## If you read it, what did you think of The Interface Segregation Principle?
 ## What was your experience of continuing to implement std::vector?
 ## What made you happy this week?
