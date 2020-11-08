@@ -1,4 +1,6 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Blog 11: 11/08/2020 - Skipped
+
 # Blog 10: 11/01/2020
 
 ## What did you do this past week?
