@@ -3,7 +3,7 @@
 
 ## How well do you think the course conveyed those takeaways?
 
-**test first, test during, test after, test, test, test**
+**test first, test during, test after, test, test, test**\n
 **when designing algorithms, demand the weakest iterators (e.g. bidirectional vs. random access)**
 **when designing containers, provide the strongest iterators (e.g. random access vs bidirectional)**
 **build adapters on top of containers, iterators, and functions**
