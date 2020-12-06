@@ -1,4 +1,49 @@
 ![This is I. Nice to meet you!](https://raw.githubusercontent.com/jNav56/jNav56.github.io/master/Photo_CS371P.png)
+# Final Entry: 12/06/2020
+
+## How well do you think the course conveyed those takeaways?
+
+### test first, test during, test after, test, test, test
+### when designing algorithms, demand the weakest iterators (e.g. bidirectional vs. random access)
+### when designing containers, provide the strongest iterators (e.g. random access vs bidirectional)
+### build adapters on top of containers, iterators, and functions
+### always look for reuse and symmetry in your code
+### collaboration is essential to the quality of your code and to your well-being in producing it
+### refactor, refactor, refactor
+### make your code beautiful
+
+I think the course did well in conveying these concepts. Particularly in always looking to reusing code throughout classes, I think the course showed a good deal of examples of how this can be applied when writing code no matter the level detail. Honestly, the examples were probably the most useful parts of the class since Professor Downing was clear in their explanations and had a nice flow of going through the examples.
+
+## Were there any other particular takaways for you?
+
+I would say the use of Gitlab was a very nice takeaway, it was a nice introduction to a tool that I have seen a lot of people use. If not specifically Gitlab, this class definitely gave students a taste of using branches, merges, pull, and push mechanics that are seen in many computer science fields.
+
+## How did you feel about two-stage quizzes and tests?
+
+The two-stage quizzes was very nice I thought. There were times that I passed the first time and it seemed redundant to go to the second stage with the group. However, it goes without saying that I was very glad to have gone to the second stage because there were times I did mess the first time.
+
+## How did you feel about cold calling?
+
+Kept me paying attention in class and gave me incentive to know what was going on in the lectures that came before.
+
+## How did you feel about office hours?
+
+I thought office hours were good, the TAs really knew what they were doing and Professor Downing was extremely helpful and nice about you learning the material. There was a feeling of acceptance and good intentions prevalent in the office hours, so I really appreciated that.
+
+## How did you feel about lab sessions?
+
+Unfortunately I was not able to go to the lab sessions, but I did have friends who did go and they always seemed to have a better understanding of the projects and that in turn made it easier on me. Althoug it doesn't surprise me because the instructors were always helpful.
+
+## Give me your suggestions for improving the course.
+
+If I had to give one suggestion I think it would be good have more Hackerrank exercises in the class lectures. I know we had a few throughout the semester, but some of them were long and I thought that having some smaller ones that could be done under 5 minutes would be good. If anything a Hackerrank exercises done with the whole class and teacher would also be nice.
+
+# Blog 14: 11/29/2020 - Skipped
+
+# Blog 13: 11/22/2020 - Skipped
+
+# Blog 12: 11/15/2020 - Skipped
+
 # Blog 11: 11/08/2020 - Skipped
 
 # Blog 10: 11/01/2020
