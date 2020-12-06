@@ -3,14 +3,14 @@
 
 ## How well do you think the course conveyed those takeaways?
 
-### test first, test during, test after, test, test, test
-### when designing algorithms, demand the weakest iterators (e.g. bidirectional vs. random access)
-### when designing containers, provide the strongest iterators (e.g. random access vs bidirectional)
-### build adapters on top of containers, iterators, and functions
-### always look for reuse and symmetry in your code
-### collaboration is essential to the quality of your code and to your well-being in producing it
-### refactor, refactor, refactor
-### make your code beautiful
+**test first, test during, test after, test, test, test
+**when designing algorithms, demand the weakest iterators (e.g. bidirectional vs. random access)
+**when designing containers, provide the strongest iterators (e.g. random access vs bidirectional)
+**build adapters on top of containers, iterators, and functions
+**always look for reuse and symmetry in your code
+**collaboration is essential to the quality of your code and to your well-being in producing it
+**refactor, refactor, refactor
+**make your code beautiful
 
 I think the course did well in conveying these concepts. Particularly in always looking to reusing code throughout classes, I think the course showed a good deal of examples of how this can be applied when writing code no matter the level detail. Honestly, the examples were probably the most useful parts of the class since Professor Downing was clear in their explanations and had a nice flow of going through the examples.
 
